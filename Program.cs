@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-
+//Ohata
 class Program
 {
     static void Main()
