@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Globalization;
-//Ohata
 class Program
 {
     static void Main()
@@ -15,7 +14,7 @@ class Program
             Console.WriteLine("Introduza o operador (+, -, *, /):  ");
             op = Console.ReadLine()[0];
 
-            if (op == 'N')
+            if (op == 'N' || op == 'n')
             {
                 break;
             }
@@ -51,7 +50,7 @@ class Program
 
             Console.WriteLine("Deseja continuar? S/N");
             char decision = Console.ReadLine()[0];
-            if (decision == 'N')
+            if (decision == 'N' || 'n')
             {
                 exit = true;
             }
