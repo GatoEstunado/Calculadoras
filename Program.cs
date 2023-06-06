@@ -2,59 +2,64 @@
 using System.Globalization;
 class Program
 {
+    static int Soma(int a, int b)
+    {
+        return a + b;
+    }
+
+    static int Sub(int a, int b)
+    {
+        return a - b;
+    }
+
+    static int Dividir(int a, int b)
+    {
+        return a / b;
+    }
+
+    static int Mult(int a, int b)
+    {
+        return a * b;
+    }
+
     static void Main()
     {
-        char op;
-        float num1, num2;
-
         bool exit = false;
         while (!exit)
         {
+            Console.WriteLine("Digite dois números ou N/n para parar: ");
+            string input = Console.ReadLine();
 
-            Console.WriteLine("Introduza o operador (+, -, *, /):  ");
-            op = Console.ReadLine()[0];
-
-            if (op == 'N' || op == 'n')
-            {
-                break;
-            }
-
-            Console.WriteLine("Introduza os valores: ");
-            string[] inputValues = Console.ReadLine().Split(' ');
-            num1 = float.Parse(inputValues[0]);
-            num2 = float.Parse(inputValues[1]);
-
-
-            switch (op)
-            {
-                case '+':
-                    Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
-                    break;
-
-                case '-':
-                    Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
-                    break;
-
-                case '*':
-                    Console.WriteLine($"{num1} * {num2} = {num1 * num2}");
-                    break;
-
-                case '/':
-                    Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
-                    break;
-
-                default:
-                    Console.WriteLine("Operador inválido, introduza um valor válido: +, -, *, /.");
-                    break;
-            }
-
-            Console.WriteLine("Deseja continuar? S/N");
-            char decision = Console.ReadLine()[0];
-            if (decision == 'N' || 'n')
+            if (string.Equals(input, "N", StringComparison.OrdinalIgnoreCase))
             {
                 exit = true;
+                continue;
             }
-        }
 
+            string[] numbers = input.Split(' ');
+            
+            if (numbers.Length != 2)
+            {
+                Console.WriteLine("Valor inválido. Tente novamente separado por espaço.");
+                continue;
+            }
+
+            int a, b;
+            if (!int.TryParse(numbers[0], out a) || !int.TryParse(numbers[1], out b))
+            {
+                Console.WriteLine("Valor inválido. Tente novamente.");
+                continue;
+            }
+
+            Console.WriteLine("Soma: " + Soma(a, b));
+            Console.WriteLine("Subtração: " + Sub(a, b));
+            Console.WriteLine("Divisão: " + Dividir(a, b));
+            Console.WriteLine("Multiplicação: " + Mult(a, b));
+
+            Console.WriteLine();
+        }
     }
 }
+
+
+            
