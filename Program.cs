@@ -4,57 +4,35 @@ class Program
 {
     static void Main()
     {
-        char op;
-        float num1, num2;
+        bool repeat = true;
 
-        bool exit = false;
-        while (!exit)
+        while (repeat)
         {
+        int num;
+        bool Invalid = false;
 
-            Console.WriteLine("Introduza o operador (+, -, *, /):  ");
-            op = Console.ReadLine()[0];
+        do
+        {
+            Console.WriteLine("Digite um número de 1 a 10: ");
+            string input = Console.ReadLine();
 
-            if (op == 'N' || op == 'n')
+            if (!int.TryParse(input, out num) || num < 1 || num > 10)
             {
-                break;
+                Console.WriteLine("Número inválido. Tente novamente, com valores de 1 a 10.");
+            }
+            else
+            {
+                Invalid = true;
             }
 
-            Console.WriteLine("Introduza os valores: ");
-            string[] inputValues = Console.ReadLine().Split(' ');
-            num1 = float.Parse(inputValues[0]);
-            num2 = float.Parse(inputValues[1]);
+        } while (!Invalid);
+        Console.WriteLine("Você digitou: " + num + ".");
 
+        Console.WriteLine("Deseja digitar um novo número? (S/N): ");
+        string repeatInput = Console.ReadLine();
 
-            switch (op)
-            {
-                case '+':
-                    Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
-                    break;
-
-                case '-':
-                    Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
-                    break;
-
-                case '*':
-                    Console.WriteLine($"{num1} * {num2} = {num1 * num2}");
-                    break;
-
-                case '/':
-                    Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
-                    break;
-
-                default:
-                    Console.WriteLine("Operador inválido, introduza um valor válido: +, -, *, /.");
-                    break;
-            }
-
-            Console.WriteLine("Deseja continuar? S/N");
-            char decision = Console.ReadLine()[0];
-            if (decision == 'N' || 'n')
-            {
-                exit = true;
-            }
+        repeat = string.Equals(repeatInput, "S", StringComparison.OrdinalIgnoreCase);
         }
-
     }
 }
+    
