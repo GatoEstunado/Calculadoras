@@ -4,29 +4,29 @@ Versão: 1.0
 Status do Projeto:  ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calculadoras#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
+🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
 
-🔹 [Funcionalidades](https://github.com/GatoEstunado/Calculadoras#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição](https://github.com/GatoEstunado/Calculadoras#distribui%C3%A7%C3%A3o-)
+🔹 [Distribuição](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#distribui%C3%A7%C3%A3o-)
 
-🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calculadoras#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calculadoras#como-rodar-%EF%B8%8F)
+🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#como-rodar-%EF%B8%8F)
 
-🔹 [Testes realizados](https://github.com/GatoEstunado/Calculadoras#testes-realizados-)
+🔹 [Testes realizados](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#testes-realizados-)
 
-🔹 [Banco de Dados](https://github.com/GatoEstunado/Calculadoras#banco-de-dados-%EF%B8%8F)
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Calculadoras#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calculadoras#resolvendo-problemas-)
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#resolvendo-problemas-)
 
-🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calculadoras#recursos-de-inseridos-)
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calculadoras#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](https://github.com/GatoEstunado/Calculadoras#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/GatoEstunado/Calculadoras/tree/Do_While#licen%C3%A7a)
 
 ...
 
