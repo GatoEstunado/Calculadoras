@@ -6,7 +6,7 @@ Status do Projeto:  ✔️ Concluído
 ## Tópicos
 🔹 [Descrição do projeto](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
 
-🔹 [Funcionalidades](https://github.com/GatoEstunadoInstrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#funcionalidades-%EF%B8%8F)
 
 🔹 [Distribuição](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#distribui%C3%A7%C3%A3o-)
 
@@ -18,7 +18,7 @@ Status do Projeto:  ✔️ Concluído
 
 🔹 [Banco de Dados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Instrucoes_Condicionais_Repeticoes_e_Funcoes/Calculadoras/tree/For#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#linguagens-dependencias-e-libs-utilizadas-)
 
 🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#resolvendo-problemas-)
 
