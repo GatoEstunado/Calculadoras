@@ -4,29 +4,29 @@ Versão: 1.0
 Status do Projeto:  ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
+🔹 [Descrição do projeto](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
 
-🔹 [Funcionalidades](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#distribui%C3%A7%C3%A3o-)
+🔹 [Distribuição](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#distribui%C3%A7%C3%A3o-)
 
-🔹 [Pré-requisitos](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#como-rodar-%EF%B8%8F)
+🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#como-rodar-%EF%B8%8F)
 
-🔹 [Testes realizados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#testes-realizados-)
+🔹 [Testes realizados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#testes-realizados-)
 
-🔹 [Banco de Dados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#banco-de-dados-%EF%B8%8F)
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#resolvendo-problemas-)
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#resolvendo-problemas-)
 
-🔹 [Recursos inseridos](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#recursos-de-inseridos-)
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/master#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes#licen%C3%A7a)
 
 ...
 
