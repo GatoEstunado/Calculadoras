@@ -4,29 +4,29 @@ Versão: 1.0
 Status do Projeto:  ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/GatoEstunado/Calculadoras/tree/For#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
+🔹 [Descrição do projeto](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#descri%C3%A7%C3%A3o-do-projeto-%EF%B8%8F)
 
-🔹 [Funcionalidades](https://github.com/GatoEstunado/Calculadoras/tree/For#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/GatoEstunadoInstrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição](https://github.com/GatoEstunado/Calculadoras/tree/For#distribui%C3%A7%C3%A3o-)
+🔹 [Distribuição](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#distribui%C3%A7%C3%A3o-)
 
-🔹 [Pré-requisitos](https://github.com/GatoEstunado/Calculadoras/tree/For#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Calculadoras/tree/For#como-rodar-%EF%B8%8F)
+🔹 [Como rodar a aplicação](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#como-rodar-%EF%B8%8F)
 
-🔹 [Testes realizados](https://github.com/GatoEstunado/Calculadoras/tree/For#testes-realizados-)
+🔹 [Testes realizados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#testes-realizados-)
 
-🔹 [Banco de Dados](https://github.com/GatoEstunado/Calculadoras/tree/For#banco-de-dados-%EF%B8%8F)
+🔹 [Banco de Dados](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/GatoEstunado/Calculadoras/tree/For#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Instrucoes_Condicionais_Repeticoes_e_Funcoes/Calculadoras/tree/For#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Calculadoras/tree/For#resolvendo-problemas-)
+🔹 [Resolvendo problemas](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#resolvendo-problemas-)
 
-🔹 [Recursos inseridos](https://github.com/GatoEstunado/Calculadoras/tree/For#recursos-de-inseridos-)
+🔹 [Recursos inseridos](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Calculadoras/tree/For#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](https://github.com/GatoEstunado/Calculadoras/tree/For#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/GatoEstunado/Instrucoes_Condicionais_Repeticoes_e_Funcoes/tree/For#licen%C3%A7a)
 
 ...
 
